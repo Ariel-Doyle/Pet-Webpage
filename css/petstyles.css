@@ -1,0 +1,17 @@
+body {
+  font-family: Franklin Gothic Medium;
+  background-color: lightgreen;
+  background-image: url('../img/mouse.avif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  background: -webkit-linear-gradient(gold, lightgreen);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
