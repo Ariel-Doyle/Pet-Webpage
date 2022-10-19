@@ -19,12 +19,25 @@ h1 {
   background-color: rgba(255, 255, 255, .5);
 }
 
+img {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.highlight {
+  font-size: large;
+  color: black;
+}
+
 .intro {
 font-style: italic;
 }
 
 .list {
+  list-style-type: upper-roman;
   color: purple;
+  list-style-position: inside;
 }
 
 .warning {
